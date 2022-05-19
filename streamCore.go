@@ -6,10 +6,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/deepch/vdk/format/rtmp"
+	"github.com/grupopulpo/vdk/format/rtmp"
 
-	"github.com/deepch/vdk/av"
-	"github.com/deepch/vdk/format/rtspv2"
+	"github.com/grupopulpo/vdk/av"
+	"github.com/grupopulpo/vdk/format/rtspv2"
 	"github.com/sirupsen/logrus"
 )
 
